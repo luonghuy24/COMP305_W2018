@@ -1,0 +1,1347 @@
+fileFormatVersion: 2
+guid: 136d5e61c79e749699526fb0bae74ff9
+timeCreated: 1517842812
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megamanpowerbattlessheet 1_0
+    21300002: megamanpowerbattlessheet 1_1
+    21300004: megamanpowerbattlessheet 1_2
+    21300006: megamanpowerbattlessheet 1_3
+    21300008: megamanpowerbattlessheet 1_4
+    21300010: megamanpowerbattlessheet 1_5
+    21300012: megamanpowerbattlessheet 1_6
+    21300014: megamanpowerbattlessheet 1_7
+    21300016: megamanpowerbattlessheet 1_8
+    21300018: megamanpowerbattlessheet 1_9
+    21300020: megamanpowerbattlessheet 1_10
+    21300022: megamanpowerbattlessheet 1_11
+    21300024: megamanpowerbattlessheet 1_12
+    21300026: megamanpowerbattlessheet 1_13
+    21300028: megamanpowerbattlessheet 1_14
+    21300030: megamanpowerbattlessheet 1_15
+    21300032: megamanpowerbattlessheet 1_16
+    21300034: megamanpowerbattlessheet 1_17
+    21300036: megamanpowerbattlessheet 1_18
+    21300038: megamanpowerbattlessheet 1_19
+    21300040: megamanpowerbattlessheet 1_20
+    21300042: megamanpowerbattlessheet 1_21
+    21300044: megamanpowerbattlessheet 1_22
+    21300046: megamanpowerbattlessheet 1_23
+    21300048: megamanpowerbattlessheet 1_24
+    21300050: megamanpowerbattlessheet 1_25
+    21300052: megamanpowerbattlessheet 1_26
+    21300054: megamanpowerbattlessheet 1_27
+    21300056: megamanpowerbattlessheet 1_28
+    21300058: megamanpowerbattlessheet 1_29
+    21300060: megamanpowerbattlessheet 1_30
+    21300062: megamanpowerbattlessheet 1_31
+    21300064: megamanpowerbattlessheet 1_32
+    21300066: megamanpowerbattlessheet 1_33
+    21300068: megamanpowerbattlessheet 1_34
+    21300070: megamanpowerbattlessheet 1_35
+    21300072: megamanpowerbattlessheet 1_36
+    21300074: megamanpowerbattlessheet 1_37
+    21300076: megamanpowerbattlessheet 1_38
+    21300078: megamanpowerbattlessheet 1_39
+    21300080: megamanpowerbattlessheet 1_40
+    21300082: megamanpowerbattlessheet 1_41
+    21300084: megamanpowerbattlessheet 1_42
+    21300086: megamanpowerbattlessheet 1_43
+    21300088: megamanpowerbattlessheet 1_44
+    21300090: megamanpowerbattlessheet 1_45
+    21300092: megamanpowerbattlessheet 1_46
+    21300094: megamanpowerbattlessheet 1_47
+    21300096: megamanpowerbattlessheet 1_48
+    21300098: megamanpowerbattlessheet 1_49
+    21300100: megamanpowerbattlessheet 1_50
+    21300102: megamanpowerbattlessheet 1_51
+    21300104: megamanpowerbattlessheet 1_52
+    21300106: megamanpowerbattlessheet 1_53
+    21300108: megamanpowerbattlessheet 1_54
+    21300110: megamanpowerbattlessheet 1_55
+    21300112: megamanpowerbattlessheet 1_56
+    21300114: megamanpowerbattlessheet 1_57
+    21300116: megamanpowerbattlessheet 1_58
+    21300118: megamanpowerbattlessheet 1_59
+    21300120: megamanpowerbattlessheet 1_60
+    21300122: megamanpowerbattlessheet 1_61
+    21300124: megamanpowerbattlessheet 1_62
+    21300126: megamanpowerbattlessheet 1_63
+    21300128: megamanpowerbattlessheet 1_64
+    21300130: megamanpowerbattlessheet 1_65
+    21300132: megamanpowerbattlessheet 1_66
+    21300134: megamanpowerbattlessheet 1_67
+    21300136: megamanpowerbattlessheet 1_68
+    21300138: megamanpowerbattlessheet 1_69
+    21300140: megamanpowerbattlessheet 1_70
+    21300142: megamanpowerbattlessheet 1_71
+    21300144: megamanpowerbattlessheet 1_72
+    21300146: megamanpowerbattlessheet 1_73
+    21300148: megamanpowerbattlessheet 1_74
+    21300150: megamanpowerbattlessheet 1_75
+    21300152: megamanpowerbattlessheet 1_76
+    21300154: megamanpowerbattlessheet 1_77
+    21300156: megamanpowerbattlessheet 1_78
+    21300158: megamanpowerbattlessheet 1_79
+    21300160: megamanpowerbattlessheet 1_80
+    21300162: megamanpowerbattlessheet 1_81
+    21300164: megamanpowerbattlessheet 1_82
+    21300166: megamanpowerbattlessheet 1_83
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 398
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 398
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 398
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 398
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 398
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 398
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 398
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 334
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 334
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 334
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 334
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 333
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 332
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 335
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 335
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 335
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 335
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 335
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 272
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 272
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 278
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 274
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 273
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 271
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 283
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 277
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 271
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 222
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 222
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 225
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 222
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 223
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 227
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 227
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 175
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 175
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 176
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 175
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_47
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 175
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 176
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 177
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 178
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 129
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 129
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 124
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 127
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 131
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 131
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_60
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 131
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 78
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 77
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_63
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 78
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_64
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 82
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_65
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 86
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_66
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 79
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_67
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 85
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_68
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 91
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 85
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_70
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 84
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 25
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 27
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 27
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_74
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 26
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_75
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 28
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 28
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_77
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 27
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_78
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 29
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_79
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 29
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_80
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 27
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_81
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 26
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 26
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megamanpowerbattlessheet 1_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 146
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
