@@ -34,7 +34,6 @@ public class RobotController : MonoBehaviour {
 
 		isGrounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, definedGround);
 
-		Debug.Log ("Grounded? " + isGrounded);
 		animator.SetBool ("Ground", isGrounded);
 		animator.SetFloat ("vSpeed", rBody.velocity.y);
 

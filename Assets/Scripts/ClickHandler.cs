@@ -27,7 +27,7 @@ public class ClickHandler : MonoBehaviour {
 	}		
 
 	void OnMouseDown(){
-		GameObject gObject = GameObject.Find ("Simple_humanoid");
+		//GameObject gObject = GameObject.Find ("Simple_humanoid");
 		sRender.sprite = newImage[0];
 		rBody.velocity *= -1;
 		Debug.Log (someNumber);
